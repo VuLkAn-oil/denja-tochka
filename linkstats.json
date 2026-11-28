@@ -1,0 +1,24 @@
+{
+ "updated": "2026-11-27T22:44:50",
+ "goal": 10000,
+ "publications_real": 7,
+ "goal_progress_pct": 0.07,
+ "pool_touched": 1152,
+ "pool_total": 37863,
+ "total": 65,
+ "ready_total": 35,
+ "by_status": {
+  "active": 4,
+  "owner-needed": 5,
+  "in-progress": 2,
+  "ready": 35,
+  "captcha": 1,
+  "probe-fail": 12,
+  "candidate": 6
+ },
+ "placements_today": 35,
+ "placements_total": 56,
+ "promoted_today": 1,
+ "heartbeat": "2026-11-27T22:44:50",
+ "last_cycle": "LB-WORKER OK platforms=65 placements_today=35 probe=[PROBE-ALL OK probed=8 ready=8 captcha=0 dead=0 probe-fail=0 skip=11] verified=5/5"
+}

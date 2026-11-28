@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /_next/
+Disallow: /api/
+
+# RSS-лента для агрегаторов
+# https://denja-tochka.ru/rss.xml
+Sitemap: https://denja-tochka.ru/sitemap.xml
